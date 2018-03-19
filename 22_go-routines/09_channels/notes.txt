@@ -1,0 +1,5 @@
+# Concurrency
+https://golang.org/doc/effective_go.html#concurrency
+
+# Go Proverbs
+http://go-proverbs.github.io

@@ -1,0 +1,6 @@
+## More Error Handling Resources
+    * http://www.goinggo/2014/10/error-handling-in-go-part-i.html
+    * http://www.goinggo/2014/10/error-handling-in-go-part-ii.html
+    * http://blog.golang.org/error-handling-and-go
+    * https://golang.org/ref/spec#Errors
+    * https://golang.org/doc/effective_go.html#errors

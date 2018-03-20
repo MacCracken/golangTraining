@@ -1,0 +1,21 @@
+## GoLang-Book
+    * https://www.golang-book.com
+    
+## Concurrency
+    * Visualizing Concurrency in Go
+        * http://divan.github.io/posts/go_concurrency_visualize/
+    
+    * Dancing with Go's Mutexes
+        * https://hackernoon.com/dancing-with-go-s-mutexes-92407ae927bf
+
+    *  GoLang-Book
+        * https://www.golang-book.com/books/intro/10
+
+## Memory Allocation
+    * Stack Overflow on Memory Allocations
+        * https://stackoverflow.com/questions/34197248/how-can-i-store-reference-to-the-result-of-an-operation-in-go
+
+    * Article on Memory Allocation
+        * http://golangtutorials.blogspot.ae/2011/06/memory-variables-in-memory-and-pointers.html
+
+
